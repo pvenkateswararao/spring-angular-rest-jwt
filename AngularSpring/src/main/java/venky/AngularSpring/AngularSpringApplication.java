@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 
 @SpringBootApplication
 @CrossOrigin(origins = "*")
-public class AngularSpringApplication {
+public class AngularSpringApplication{
 
 	public static void main(String[] args) {
 		SpringApplication.run(AngularSpringApplication.class, args);
