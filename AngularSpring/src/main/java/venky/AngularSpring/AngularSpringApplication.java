@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 @CrossOrigin(origins = "*")
 public class AngularSpringApplication {
 
-	public static void main(String[] args) {
+	public static void main(String[] args ) {
 		SpringApplication.run(AngularSpringApplication.class, args);
 	}
 
